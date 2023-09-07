@@ -29,7 +29,7 @@ Para ejecutar los scripts de MATLAB/Octave, simplemente abre los archivos en MAT
 
 ## Presentación 🎤
 
-Si estás interesado en profundizar en el tema, puedes acceder a la presentación [aquí](#link-de-tu-presentación).
+Si estás interesado en profundizar en el tema, puedes acceder a la presentación [aquí]([#link-de-tu-presentación](https://www.figma.com/proto/ruGJp0vYRDY2H51k0eKlI0/FDS?type=design&node-id=1-2&t=tXDuv72K16aZ4PPf-1&scaling=contain&page-id=0%3A1&mode=design)).
 
 ## Contribución 🤝
 
