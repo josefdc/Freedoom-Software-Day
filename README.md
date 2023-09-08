@@ -2,7 +2,7 @@
 
 # Matemáticas: El Proyecto de Código Abierto 🌍✨
 
-**Descripción:** La matemática es, en esencia, un proyecto de código abierto, una construcción colectiva desarrollada a través de milenios. En este repositorio, se exploran diferentes conceptos matemáticos y sus visualizaciones mediante programas en Octave, MATLAB y SaGeMath.
+**Descripción:** La matemática es, en esencia, un proyecto de código abierto, una construcción colectiva desarrollada a través de milenios. En este repositorio, se exploran diferentes conceptos matemáticos y sus visualizaciones mediante programas en Octave, MATLAB y SageMath.
 
 ## Contenido del Repositorio 📂
 
